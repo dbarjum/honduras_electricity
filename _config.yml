@@ -1,2 +1,9 @@
-theme: jekyll-theme-minimal
-logo: https://github.com/dbarjum/honduras_electricity/blob/master/HN_Powerline.JPG
+theme: jekyll-theme-primer
+title: Using Data to Improve Market Efficiency in Honduras' Power System
+description: Automatic Playlist Recommender
+baseurl:
+markdown: kramdown
+kramdown:
+    math_engine: mathjax
+    input: GFM
+    syntax_highlighter: rouge
