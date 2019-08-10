@@ -33,8 +33,8 @@ There is little information within these documents that relate to ENEE’s finan
 
 The original data sets were in Portable Document Format (PDF) and in the Spanish language. We cleaned datasets and made CSV (Comma-separated values) format files for data analysis. This was an arduous task as the internal formatting of the files vary from document to document and we had to make sure to consistently extract the correct information.
 
-![PNG](/images/sample_pdf.png "sample data pdf from ENEE")
 *Sample of ENEE monthly reports*
+![PNG](/images/sample_pdf.png "sample data pdf from ENEE")
 
 ## Assumptions
 
@@ -46,7 +46,7 @@ We have questions about a negative data point we found in the amount of energy s
 
 Another assumption we made is that total technical losses in the transmission and distribution grid is almost constant and that any variation in the total electricity losses (from the generation to the end user’s metering system) is explained by non-technical losses, such as improper metering or theft.
 
-![png](/images/losses_diagram.png "electricity losses diagram")
 *Schematic graph of losses in the grid based on our data assumptions*
+![PNG](/images/losses_diagram.png "electricity losses diagram")
 
 Finally, we assume that the values in the sold energy dataset are the payments made by subscribers in regard to their energy consumption.
