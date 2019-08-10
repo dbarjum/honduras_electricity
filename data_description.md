@@ -46,7 +46,7 @@ We have questions about a negative data point we found in the amount of energy s
 Another assumption we made is that total technical losses in the transmission and distribution grid is almost constant and that any variation in the total electricity losses (from the generation to the end user’s metering system) is explained by non-technical losses, such as improper metering or theft.
 
 *Schematic graph of losses in the grid based on our data assumptions*
-<img style="display:block; margin-left: auto; margin-right: auto;" src="images/losses_diagram.png">
+<img style="float: middle;" src="images/losses_diagram.png">
 
 
 Finally, we assume that the values in the sold energy dataset are the payments made by subscribers in regard to their energy consumption.
