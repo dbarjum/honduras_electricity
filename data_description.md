@@ -1,5 +1,5 @@
 ---
-title: Data Description and Analysis
+title: Data Description
 notebook: Download_ENEE_Monthly.ipynb
 nav_include: 2
 ---
@@ -33,8 +33,20 @@ There is little information within these documents that relate to ENEE’s finan
 
 The original data sets were in Portable Document Format (PDF) and in the Spanish language. We cleaned datasets and made CSV (Comma-separated values) format files for data analysis. This was an arduous task as the internal formatting of the files vary from document to document and we had to make sure to consistently extract the correct information.
 
-![png](/images/sample_pdf.png "hello")
+![png](/images/sample_pdf.png "sample data pdf from ENEE")
+*Sample of ENEE monthly reports*
 
 ## Assumptions
 
-## Exploratory Data Analysis
+During data analysis process, we made some assumption about the exact definition of what the data referenced. We attempted to verify these assumptions with the Honduran government as much as possible, but we did sometimes fail to obtain a clear answer.
+
+In the generation dataset, we make an assumption about the definition of the “sold energy” energy variable. We assumed that this value represents the total energy in Megawatt hours (MWh) delivered to the registered end users in the distribution network.
+
+We have questions about a negative data point we found in the amount of energy sold to the residential consumers during the month of May 2018. Income from the selling energy to the residential sector was negative as well. We could not verify why this was the case and decided to keep it in our analysis with assumption that the money was paid back to the residential consumers.
+
+Another assumption we made is that total technical losses in the transmission and distribution grid is almost constant and that any variation in the total electricity losses (from the generation to the end user’s metering system) is explained by non-technical losses, such as improper metering or theft.
+
+![png](/images/losses_diagram.png "electricity losses diagram")
+*Schematic graph of losses in the grid based on our data assumptions*
+
+Finally, we assume that the values in the sold energy dataset are the payments made by subscribers in regard to their energy consumption.
