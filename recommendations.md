@@ -66,6 +66,6 @@ These recommendations focus on reducing electricity losses and identifying the i
 **Addressing electricity losses and indirect subsidies:** A quick estimation of the impact for the loss management policy recommendation was calculated using the following logic. The current average electricity losses in Honduras is 32.14%, current Honduran law allows for the existence of at most 15% losses. The estimated income loss for not having lowered electricity losses to 15% during 2012 to October 2018 is estimated to be equal to 6.4% of 2017 GDP. Table 4 presents an estimate of the impact that losses have on ENEE’s finances.
 
 <p align="center"><i>Estimated impact of electricity loss reduction</i></p>
-<img style="display:block; margin-left: auto; margin-right: auto;" src="images/loss_reduction.png" alt="estimated loss reduction">
+<img style="display:block; margin-left: auto; margin-right: auto;" src="images/loss_reduction.png" alt="estimated loss reduction" width="60%>
 
 As stated previously, we recommend the government help ENEE pilot a remote metering program in the commercial sector in either the northwest and central-south regions. This could be done in the short-term. In a further iteration of this, ENEE could expand the scope to the commercial and industrial sectors in all regions of the country. As previously mentioned, these are significant consumers of electricity. In the long-term, ENEE must look into adopting better metering for the residential sector as it the largest consumer of electricity in Honduras.
