@@ -4,8 +4,6 @@ title: Using Data to Improve Market Efficiency in Honduras' Power System
 
 ![png](/HN_Powerline.JPG)
 
-# Using Data to Improve Market Efficiency in Honduras' Power System
-
 >By Yalda Amini and Daniel Barjum, March 2018
 
 
