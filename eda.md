@@ -62,7 +62,7 @@ The following graph represents a boxplot diagram of energy consumption for by se
 The figure below presents the trends in average electricity demand by each sector. Most trends are increasing, especially among the main four consumers (residential, commercial and industrial sector.) As a result, any further investigation toward energy loss improvement would have the largest impact if started in these sectors. Additionally, taking into the fewer number of subscribers in commercial sector when compared to the large number of residential subscribers, it would be more administratively feasible to consider initial interventions in the commercial sector.
 
 <p align="center"><i>Trend of average electricity demand by sector</i></p>
-<img style="display:block; margin-left: auto; margin-right: auto;" src="images/sectoral_demand_trend_1.png" alt="average electricity consumption by sector" height="350">
+<img style="display:block; margin-left: auto; margin-right: auto;" src="images/sectoral_demand_trend_1.png" alt="average electricity consumption by sector" height="450">
 
 The data seen so far raises the question of: what is the trend in payment per subscriber for the different sectors and regions? The findings to this question for the commercial, industrial and high consumer sectors are presented below. There are some noteworthy patterns among some sectors and regions. As highlighted with the red rectangles in the figures, there are some period during 2012-2016 in which the commercial sector payment per subscribers has been decreasing while their energy consumption was increasing. There is similar behavior in other large electricity consumers such as in the industrial sector and high consumers. Possible explanations of these trends are subsidies or non-technical losses.
 
@@ -79,4 +79,4 @@ Another informative comparison of payment per subscriber behavior with their con
 Preliminary results show that by the end of December 2018, the total debt owed to ENEE is approximately $155.81 Million, equivalent to 0.7% of GDP. Figure 18 shows that the public sector owes the most money to ENEE (65% of the debt). The commercial sector follows, representing 32.4% of the total debt owed to ENEE. It might not be a surprise that public entities are not paying for electricity , but it is a surprise to see the commercial sector owing so much on electricity bills.
 
 <p align="center"><i>Total Debt Owed to ENEE by Sector (December 2018)</i></p>
-<img style="display:block; margin-left: auto; margin-right: auto;" src="images/debt_enee.png" alt="debt to enee" height="350">
+<img style="display:block; margin-left: auto; margin-right: auto;" src="images/debt_enee.png" alt="debt to enee" height="300">
