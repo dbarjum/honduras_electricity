@@ -1,13 +1,10 @@
 ---
-title: Using Data to Improve Market Efficiency in Honduras' Power System
----
+title: Executive Summary
 
 ![png](/HN_Powerline.JPG)
 
 >By Yalda Amini and Daniel Barjum, March 2018
 
-
-**Executive Summary**
 
 For the better part of this decade, Honduras’s electricity sector has been continuously facing various challenges. Electricity costs to consumers is generally low, electricity losses are high, and the state-owned power company (ENEE) is highly indebted. This large deficit has become a concern to the central government. Both in 2013 and 2017, the Honduras issued sovereign bonds to cover the financial losses of ENEE. Even with this intervention, ENEE’s financial losses have continued to rise, its current liability levels are equivalent to 9.87% of Honduras’s GDP and its balance sheets are constantly negative.
 
