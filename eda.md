@@ -21,14 +21,14 @@ The following graphs are a decomposition of energy generation and installed capa
 *Energy generation in the Honduran Grid*
 ![PNG](/images/avg_gen_output_year_percent.png "Energy generation in Honduras")
 
-With regard to Figure 9 below, we see that the technology mix of installed capacity for electricity power plant has been changing between 2012 to 2018. Renewables now represents more than 50% of the installed capacity of power plants and the share of fossil fuel based technology (thermal) has reduced significantly which helps the country to move away from importing oil and dependency on its price.
+We see that the technology mix of installed capacity for electricity power plant has been changing between 2012 to 2018. Renewables now represents more than 50% of the installed capacity of power plants and the share of fossil fuel based technology (thermal) has reduced significantly which helps the country to move away from importing oil and dependency on its price.
 
 *Installed Capacity by Energy Technology 2007-2018*
 ![PNG](/images/installed_cap.png "installed capacity")
 
 ## ENEE's Finances
 
-We looked into ENEE’s finances from recent years (2015 – 2018) as this is the only data publicly available. The principal goal behind this analysis is to understand more about the behavior and composition of ENEE’s liabilities. We looked at ENEE’s total liabilities in both nominal terms and in constant 2018 prices. Our analysis (Figure 10) shows that ENEE’s total liabilities have grown from about USD 1.8 Billion to USD 2.2 Billion during this time period. Figure 11 shows the trend of the ENEE liabilities as percentage of GDP during 2015-2017. 
+We looked into ENEE’s finances from recent years (2015 – 2018) as this is the only data publicly available. The principal goal behind this analysis is to understand more about the behavior and composition of ENEE’s liabilities. We looked at ENEE’s total liabilities in both nominal terms and in constant 2018 prices. Our analysis shows that ENEE’s total liabilities have grown from about USD 1.8 Billion to USD 2.2 Billion during this time period. Figure 11 shows the trend of the ENEE liabilities as percentage of GDP during 2015-2017. 
 
 The general trend is one of growth. ENEE’s liabilities in 2017 were equivalent to 9.87% of GDP . This is worrisome as it has been the government’s belief that the injection of capital from the bonds it issued was going to alleviate ENEE’s financial situation.
 
@@ -38,7 +38,7 @@ The general trend is one of growth. ENEE’s liabilities in 2017 were equivalent
 *ENEE Liabilities as Percentage of GDP (2015-2017)*
 ![PNG](/images/liabilities_gdp.png "liabilities as gdp")
 
-This raises the question as to what is causing the increase in liabilities. We decomposed ENEE’s finances a bit further in order to try and glimpse into what might be the cause. Initially believing that private energy contracts might be the cause, we analyzed what share of total liability is represented by the accounts payable to suppliers of services to ENEE (Figure 6).
+This raises the question as to what is causing the increase in liabilities. We decomposed ENEE’s finances a bit further in order to try and glimpse into what might be the cause. Initially believing that private energy contracts might be the cause, we analyzed what share of total liability is represented by the accounts payable to suppliers of services to ENEE.
 
 *Share of total liability for suppliers and generators*
 ![PNG](images/ap_suppliers_ratio.png "liabilities to suppliers")
@@ -47,29 +47,29 @@ The accounts payable to suppliers (the blue line) represents the sum of payments
 
 ## Energy Losses
 
-Another worrisome piece of data is the trend found in transmission and distribution losses in the grid. As seen in Figure 13, electricity losses in Honduras during the past six year have been 32.14 %, on average. This is far above the 8 percent world average electricity losses, and still above the 15% Latin American and Caribbean average . This loss includes both technical and non-technical losses . The variation of distribution losses can be due to meter tampering, improper metering, and illegal connections . Even though EEH (the private distributor) was hired to lower energy losses in the system, there average and the variation in losses remains high. The peak observed in May of 2018 is due to the assumption that energy was returned to residential sector.
+Another worrisome piece of data is the trend found in transmission and distribution losses in the grid. Electricity losses in Honduras during the past six year have been 32.14 %, on average. This is far above the 8 percent world average electricity losses, and still above the 15% Latin American and Caribbean average . This loss includes both technical and non-technical losses . The variation of distribution losses can be due to meter tampering, improper metering, and illegal connections . Even though EEH (the private distributor) was hired to lower energy losses in the system, there average and the variation in losses remains high. The peak observed in May of 2018 is due to the assumption that energy was returned to residential sector.
 
 *Transmission and distribution losses in Honduras*
 ![PNG](images/energy_loss.png "electricity losses")
 
 ## Energy Consumption
 
-Figure 14 represents a boxplot diagram of energy consumption for by sector. The four main consumers are the residential, commercial, and high consumers. Thus, any policy interventions in these sectors would have significant financial impacts. It is important to note that the within sector variation observed in this graph is explained by variation coming from the different regions.
+The following graph represents a boxplot diagram of energy consumption for by sector. The four main consumers are the residential, commercial, and high consumers. Thus, any policy interventions in these sectors would have significant financial impacts. It is important to note that the within sector variation observed in this graph is explained by variation coming from the different regions.
 
 *Distribution of energy consumed by sector*
 ![PNG](images/Sold_energy_sectorial_boxplot.png "energy consumption by sector")
 
-Figure 15 presents the trends in average electricity demand by each sector. Most trends are increasing, especially among the main four consumers (residential, commercial and industrial sector.) As a result, any further investigation toward energy loss improvement would have the largest impact if started in these sectors. Additionally, taking into the fewer number of subscribers in commercial sector when compared to the large number of residential subscribers (Figure 20), it would be more administratively feasible to consider initial interventions in the commercial sector.
+The figure below presents the trends in average electricity demand by each sector. Most trends are increasing, especially among the main four consumers (residential, commercial and industrial sector.) As a result, any further investigation toward energy loss improvement would have the largest impact if started in these sectors. Additionally, taking into the fewer number of subscribers in commercial sector when compared to the large number of residential subscribers, it would be more administratively feasible to consider initial interventions in the commercial sector.
 
 *Trend of Average electricity energy demand by sector*
 ![PNG](images/sectoral_demand_trend_1.png "average electricity consumption by sector)
 
-The data seen so far raises the question of: what is the trend in payment per subscriber for the different sectors and regions? The findings to this question for the commercial, industrial and high consumer sectors are presented in Figure 16. There are some noteworthy patterns among some sectors and regions. As highlighted with the red rectangles in the figures, there are some period during 2012-2016 in which the commercial sector payment per subscribers has been decreasing while their energy consumption was increasing. There is similar behavior in other large electricity consumers such as in the industrial sector and high consumers. Possible explanations of these trends are subsidies or non-technical losses.
+The data seen so far raises the question of: what is the trend in payment per subscriber for the different sectors and regions? The findings to this question for the commercial, industrial and high consumer sectors are presented below. There are some noteworthy patterns among some sectors and regions. As highlighted with the red rectangles in the figures, there are some period during 2012-2016 in which the commercial sector payment per subscribers has been decreasing while their energy consumption was increasing. There is similar behavior in other large electricity consumers such as in the industrial sector and high consumers. Possible explanations of these trends are subsidies or non-technical losses.
 
 *Trends of “Total Energy Consumption” vs “Income per Subscriber” by sector*
 ![PNG](images/reg_trend.png "regional demand trends")
 
-Another informative comparison of payment per subscriber behavior with their consumption pattern by region. Figure 17 represents the result of this comparison. As highlighted with a red square, there is a similar pattern of decreasing payment per subscriber while increasing consumption in the center south and north west regions.
+Another informative comparison of payment per subscriber behavior with their consumption pattern by region. The result of this comparison are shown in the figure below. As highlighted with a red square, there is a similar pattern of decreasing payment per subscriber while increasing consumption in the center south and north west regions.
 
 *Regional comparison between the trends of income (payment) per subscriber versus energy consumption*
 ![PNG](images/subscriber_trend.png "subscriber trends")
