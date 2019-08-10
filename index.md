@@ -1,5 +1,5 @@
 ---
-title: Using Data to Improve Market Efficiency in Honduras' Power System
+title: Home
 ---
 
 ![png](/HN_Powerline.JPG)
