@@ -33,7 +33,7 @@ There is little information within these documents that relate to ENEE’s finan
 
 The original data sets were in Portable Document Format (PDF) and in the Spanish language. We cleaned datasets and made CSV (Comma-separated values) format files for data analysis. This was an arduous task as the internal formatting of the files vary from document to document and we had to make sure to consistently extract the correct information.
 
-![png](/images/sample_pdf.png "sample data pdf from ENEE")
+![PNG](/images/sample_pdf.png "sample data pdf from ENEE")
 *Sample of ENEE monthly reports*
 
 ## Assumptions
